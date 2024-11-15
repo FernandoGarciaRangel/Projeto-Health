@@ -1,0 +1,51 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: #DD3834;
+    height: 200px;
+}
+header div{
+
+   
+}
+nav img, p{
+    display: flex;
+    
+}
+.remedio{
+    text-align: center;
+    height: 110px;
+    width: 200px;
+    display:block;
+    background-color: white;
+    margin-top: 0px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+.cha{
+    height: 110px;
+    width: 200px;
+    display:block;
+    background-color: white;
+    margin-top: 0px;
+    border-radius: 10px;
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+nav div img {
+    height: 100px;
+    width: 100px;
+}
